@@ -67,7 +67,7 @@ The dataset contains information related to:
 
 ## 📈 Dashboard Preview
 
-![Dashboard Overview](Logistics-Performance-Analysis.png)
+![Logistics-Performance-Analysis](Logistics-Performance-Analysis.png)
 
 ---
 
