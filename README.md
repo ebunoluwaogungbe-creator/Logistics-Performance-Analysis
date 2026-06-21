@@ -6,7 +6,7 @@ This project presents a comprehensive analysis of logistics operations through t
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
 - Analyze revenue and profitability trends.
 - Identify the most profitable routes.
