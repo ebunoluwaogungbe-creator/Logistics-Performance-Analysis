@@ -38,20 +38,17 @@ The dataset contains information related to:
 - Power BI
 - Power Query
 - DAX
-- Microsoft Excel
 
 ---
 
-## 📊 Key Performance Indicators (KPIs)
-
-- Total Revenue
-- Total Profit
-- Profit Margin %
-- Revenue Growth %
-- Total Customers
-- Delayed Delivery Rate
-- Fuel Cost
-- Most Profitable Route
+## 📊 Dataset Summary
+| Metrics | Value |
+|---|---|
+| Total Revenue | $298.6M |
+| Total Fuel Cost | $95.6M |
+| Profit Margin | 66.07% |
+| OTD Rate | 44.60% |
+| Total Trips | 85k |
 
 ---
 
@@ -100,6 +97,4 @@ The Logistics Performance Dashboard successfully transformed raw logistics data 
 
 
 
----
 
-### ⭐ If you found this project interesting, feel free to explore the dashboard and repository!
