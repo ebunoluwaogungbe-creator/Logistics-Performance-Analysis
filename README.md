@@ -1,7 +1,5 @@
 # 🚚 Logistics Performance Analysis
 
-This project presents a comprehensive analysis of logistics operations through the development of an interactive Power BI dashboard.
-
 ## 📌 Project Overview
 
 This project presents a comprehensive analysis of logistics operations through the development of an interactive Power BI dashboard. Leveraging data from loads, trips, customers, routes, delivery events, and operational costs, the analysis provides insights into revenue performance, profitability, customer contribution, delivery efficiency, and fuel expenses.
